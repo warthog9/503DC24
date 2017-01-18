@@ -1,0 +1,11 @@
+http://www.digikey.com/short/3rf0m9
+QTY:	Digikey PN		Description				Notes
+1	BU2032SM-HD-GDKR-ND	CR2032 battery holder SMD
+2	952-1902-ND		20pos Vertical Pin Header 2.54mm
+2	S7018-ND		20pos Female conn header 2.54mm
+1	BSS138DKR-ND		BSS138 style mosfet N-CH
+1	ATTINY85-20SURDKR-ND	ATTiny85				Any ATTiny that's pin compatible should work
+15	311-56ERCT-ND		56 Ohm 1/4W 1206 resistor
+1	RMCF0805JT6M20CT-ND	6.2M Ohm 1/8W 0805 resistor
+1	RMCF0805JT5M10CT-ND	5.6M Ohm 1/8W 0805 resistor
+15	475-2699-1-ND		LED, Red, Reverse Mount			We used white, but those are hard to acquire - this part isn't as hard
