@@ -1,0 +1,14 @@
+- There is a single cutout (intended to be a hole) in the PCB, it's marked on the dimension layer, and includes a "cutout" indicator in the silkscreen layer
+- The The upper fill layer is intended to be GND, and is exposed via topsoldermask holes in a few places to provide conductive "buttons"
+- There is a single, large, drill hole at the top
+
+503DC24.bcream <-- Bottom Solder Paste
+503DC24.boardoutline <-- Board outline
+503DC24.bottomlayer <-- Bottom routing layer
+503DC24.bottomsilkscreen <-- Bottom silkscreen layer
+503DC24.bottomsoldermask <-- bottom soldermask layer
+503DC24.drills <-- drills
+503DC24.tcream <-- Top Solder Paste
+503DC24.toplayer <-- Top routing layer
+503DC24.topsilkscreen <-- Top Silkscreen
+503DC24.topsoldermask <-- Top soldermask 
